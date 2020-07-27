@@ -1,1 +1,1 @@
-## Yalantis test project
+## Yalantis test project (react-school/src/)
