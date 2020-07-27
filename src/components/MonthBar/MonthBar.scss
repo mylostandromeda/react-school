@@ -1,0 +1,17 @@
+.months-bar {
+  display: inline-block;
+  padding: 20px;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  cursor: pointer;
+  position: relative;
+  margin: 0 10px;
+  box-shadow: 0px 0px 18px -3px rgba(0,0,0,0.3);
+  border-radius: 3px;
+
+  &:hover {
+    .months-users {
+      display: block;
+    }
+  }
+}
